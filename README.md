@@ -1,3 +1,3 @@
 # registration-form
 
-it is course registration registration
+it is course registration form
