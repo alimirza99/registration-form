@@ -11,3 +11,5 @@ Last Name
 Gender
 
 CNIC
+
+Cell
