@@ -20,4 +20,4 @@ Atleast two subjects
 
 Session
 
-Made with html and
+Made with html and css
