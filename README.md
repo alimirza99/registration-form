@@ -9,3 +9,5 @@ Middle Name
 Last Name
 
 Gender
+
+CNIC
