@@ -16,4 +16,4 @@ Cell No
 
 Email
 
-Atleast two
+Atleast two subjects
