@@ -17,3 +17,5 @@ Cell No
 Email
 
 Atleast two subjects
+
+Session
