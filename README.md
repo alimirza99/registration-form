@@ -13,3 +13,5 @@ Gender
 CNIC
 
 Cell No
+
+Email
