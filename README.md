@@ -1,21 +1,23 @@
 # registration-form
 
-it is course registration form
+It is a course registration form.
 
-First Name
+## **First Name**
 
-Middle Name
+## **Middle Name**
 
-Last Name
+## **Last Name**
 
-Gender
-CNIC
-Cell No
+## **Gender**
 
-Email
+## **CNIC**
 
-Atleast two subjects
+## **Cell No**
 
-Session
+## **Email**
 
-Made with html and css
+**atleast two subjects*
+
+## **Session**
+
+**Made with html and css**
